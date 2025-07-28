@@ -8,6 +8,8 @@ Dublin, Ireland (53.3498° N, 6.2603° W)
 Belfast, Northern Ireland (54.5973° N, 5.9301° W)
 From these major cities, a secretive and untraceable journey begins.
 
+https://martin-dev-prog.github.io/Epstein-Abduction-Route-from-the-UK/
+
 ## First Stop: Bangor International Airport, Maine, USA
 Located at 44.8072° N, 68.8281° W
 A quiet gateway for private jets, away from commercial scrutiny
